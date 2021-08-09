@@ -2,7 +2,7 @@
 
 ![Screenshot_1616379759](https://user-images.githubusercontent.com/73323113/128649597-c1b6abcd-1036-4a5e-8a48-5609ee8a8529.png =250x250)
 
-<img src="(https://user-images.githubusercontent.com/73323113/128649597-c1b6abcd-1036-4a5e-8a48-5609ee8a8529.png " width="100" height="100">
+<img src="(https://user-images.githubusercontent.com/73323113/128649597-c1b6abcd-1036-4a5e-8a48-5609ee8a8529.png " width="600" height="600">
 
 ![Screenshot_1616379728](https://user-images.githubusercontent.com/73323113/128649602-8b41b331-0f4d-4150-9c36-13a6ae626047.png)
 
