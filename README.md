@@ -1,5 +1,8 @@
 # My Memory
 
+Published an open-source Android memory game by using Kotlin and Firebase. Play with the default icons, or play a custom game using photos from your phone. You can also download memory boards made by others by entering the game name. Incorporated varying difficulty levels of image matching and stored user images for customizable games in Firebase.
+
+
 <p float="middle">
 <img width="250px" src='https://user-images.githubusercontent.com/73323113/128649597-c1b6abcd-1036-4a5e-8a48-5609ee8a8529.png' />
 
